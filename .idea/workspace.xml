@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a53b7bc-6b55-40b1-b0c4-e22057dc2b39" name="Changes" comment="remove git repository for each project" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Lab_04_Java_Variables" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;noahaklink&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/noahaklink/Lab_04_Java_Variables&quot;,
+    &quot;accountId&quot;: &quot;d62c65a0-7d9d-4656-a673-8c04237354ca&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0603748008364242" />
+      <entry key="MS500" value="1.7040193459339665" />
+      <entry key="S2" value="4.443183860794488" />
+      <entry key="S5" value="7.606050224064282" />
+      <entry key="S10" value="9.463743411325737" />
+      <entry key="S30" value="11.065633524049927" />
+      <entry key="S60" value="11.674845503602253" />
+      <entry key="M2" value="13.506089799387912" />
+      <entry key="M5" value="20.593680824872813" />
+      <entry key="M10" value="30.529447635623495" />
+      <entry key="M15" value="37.76192935108768" />
+      <entry key="M30" value="49.64444543709963" />
+      <entry key="H1" value="58.41790712916292" />
+      <entry key="H2" value="63.801743873142435" />
+      <entry key="H4" value="66.79103081174301" />
+      <entry key="D1" value="69.44917998095342" />
+      <entry key="W1" value="69.92090980489999" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9781029559815283" />
+      <entry key="MS500" value="1.6791948516404347" />
+      <entry key="S2" value="4.398134345311157" />
+      <entry key="S5" value="7.566471687893061" />
+      <entry key="S10" value="9.437586453484448" />
+      <entry key="S30" value="11.05509365917188" />
+      <entry key="S60" value="11.66926057928157" />
+      <entry key="M2" value="13.502812212601697" />
+      <entry key="M5" value="20.591043180631708" />
+      <entry key="M10" value="30.52631203852511" />
+      <entry key="M15" value="37.75872160392822" />
+      <entry key="M30" value="49.64182666557077" />
+      <entry key="H1" value="58.416201276437604" />
+      <entry key="H2" value="63.80076634487679" />
+      <entry key="H4" value="66.79050707373493" />
+      <entry key="D1" value="69.44908747467322" />
+      <entry key="W1" value="69.92089645702833" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JO83nB0TsVIksNQ3paMqZ5iCQh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EvenOff.executor": "Run",
+    "Application.Lab_04_02_YearlyMaintenanceCost.executor": "Run",
+    "Application.YearlyCosts.executor": "Run",
+    "Application.main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "git.auto.fetch.suggestion.counter": "1",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/noahk/IdeaProjects/Lab_04_Java_Variables",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/noahk/IdeaProjects/Lab_04_Java_Variables/main/src/Main.java",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\noahk\IdeaProjects\Lab_04_Java_Variables" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Lab_04_Java_Variables" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Lab_04_Java_Variables" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a53b7bc-6b55-40b1-b0c4-e22057dc2b39" name="Changes" comment="" />
+      <created>1789520557437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789520557437</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="remove gitignroe" />
+    <MESSAGE value="help" />
+    <MESSAGE value="plz work" />
+    <MESSAGE value="remove unnecessary files" />
+    <MESSAGE value="Utilize new format + add public class" />
+    <MESSAGE value="remove git repository for each project" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove git repository for each project" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/main/src/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

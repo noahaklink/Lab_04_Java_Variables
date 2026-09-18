@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Lab_04_Java_Variables" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Lab_04_01_SalesTax" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Lab_04_02_YearlyMaintenanceCost" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Lab_04_03_MonthyCCBalance" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Lab_04_04_EvenOdd" vcs="Git" />
+  </component>
+</project>
